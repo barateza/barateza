@@ -22,7 +22,14 @@ I specialize in self-hosting, server administration, and automation. If it runs 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🔭 Current Quests
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+
+### ✅ Certifications
+
+<a href="https://www.credly.com/earner/earned/badge/91075d2f-8e13-4e39-9579-d1b2e0594717" target="_blank">
+  <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
+</a>
 
 ---
 
@@ -58,11 +65,5 @@ When I'm not debugging server logs, I'm min-maxing elsewhere:
 
 _"Optimization is not a destination, it is a continuous process."_
 
----
 
-### ✅ Certifications
-
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/91075d2f-8e13-4e39-9579-d1b2e0594717)
-
-[View the credential on Credly](https://www.credly.com/earner/earned/badge/91075d2f-8e13-4e39-9579-d1b2e0594717)
 
