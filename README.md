@@ -62,5 +62,7 @@ _"Optimization is not a destination, it is a continuous process."_
 
 ### ✅ Certifications
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/91075d2f-8e13-4e39-9579-d1b2e0594717)
+
+[View the credential on Credly](https://www.credly.com/earner/earned/badge/91075d2f-8e13-4e39-9579-d1b2e0594717)
 
