@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://barateza.org/attachments/profile.jpg" alt="Gilson Siqueira" width="180" />
+  <img src="https://avatars.githubusercontent.com/barateza?size=360" alt="Gilson Siqueira" width="180" />
   <h1>Gilson Siqueira</h1>
   <p><em>Lead Technical Support Engineer - WebPros</em></p>
   <p>Infrastructure, AI, Optimization. Log-first. Root-cause-only.</p>
@@ -43,7 +43,6 @@ status: GREEN
 - [Now](#now)
 - [Side Quests](#side-quests)
 - [Uplink](#uplink)
-- [External Assets](#external-assets)
 
 ---
 
@@ -176,18 +175,6 @@ if incident:
 - https://barateza.org
 - https://linkedin.com/in/barateza
 - https://github.com/barateza
-- mailto:gilson@barateza.org
 
 > "If I cannot point to the exact line in the log that caused it, I have not found the root cause yet."
 
----
-
-## External Assets
-
-These are the font references used on barateza.org (kept here for reference):
-
-```html
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
-```
