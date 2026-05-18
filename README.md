@@ -13,7 +13,7 @@
     <a href="https://github.com/barateza" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/badge/github-barateza-1f2937?style=for-the-badge&logo=github&logoColor=ffffff" />
     </a>
-    <a href="mailto:gilson@barateza.org">
+    <a href="mailto:github@barateza.org">
       <img alt="Email" src="https://img.shields.io/badge/email-gilson@barateza.org-22c55e?style=for-the-badge&logo=gmail&logoColor=ffffff" />
     </a>
   </p>
