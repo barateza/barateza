@@ -28,10 +28,8 @@ Ten years in Linux infrastructure and technical support, mostly on the hard end 
 
 ## Currently
 
-Lead Technical Support Engineer at **WebPros** (Plesk). Before that, support roles at Trilogy and 5CA, going back to 2020.
+Sr Platform Engineer at Sinch. 
+Previous Lead Technical Support Engineer at **WebPros** (Plesk). 
+Before that, support roles at Trilogy and 5CA, going back to 2020.
 
 **Certifications:** KCS v6 Fundamentals · AWS Certified Cloud Practitioner · Plesk Obsidian for Linux Expert · Zendesk Foundational Support
-
----
-
-> If I cannot point to the exact line in the log that caused it, I have not found the root cause yet.
